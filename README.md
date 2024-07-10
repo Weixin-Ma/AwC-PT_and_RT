@@ -11,6 +11,19 @@
 
 The effectiveness of long-term place recognition may be degraded by environment changes, such as seasonal changes and weather changes. To have a deep understanding of this issue, we conduct a comprehensive evaluation study on several state-of-the-art range sensing-based (i.e., LiDAR and radar) place recognition methods on the Borease dataset that encapsulates long-term localization scenarios with stark seasonal variations and adverse weather conditions. In addition, We design a new metric to evaluate the influence of matching thresholds on the performance of place recognition in long-term localization.
 
+If you find this work helpful, please consider citing:
+```bibtex
+@ARTICLE{ma2024evaluation,
+  author={Ma, Weixin and Yin, Huan and Yao, Lei and Sun, Yuxiang and Su, Zhongqing},
+  journal={IEEE Transactions on Intelligent Vehicles}, 
+  title={Evaluation of Range Sensing-based Place Recognition for Long-term Urban Localization}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-12},
+}
+```
+
 ## AWC-FT
 A novel metric to evaluate the influence of matching thresholds on place recognition performance for long-term localization.
 <p align="center"><img src="AwC_FT.png" width=600></p>
